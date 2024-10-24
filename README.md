@@ -15,11 +15,10 @@ Este projeto consiste em um sistema de gestão de comandas que permite adicionar
 
 ## 🔨 Tecnologias Utilizadas
 
-- **Java 17**: Linguagem principal do projeto.
-- **Spring Boot**: Framework utilizado para desenvolvimento rápido e 
-- **Maven**: Gerenciador de dependências e automação de builds.
-- **H2**: Banco de dados em memória (será usado para testes).
-- **PostgreSql**: Principal banco a ser utilizado no projeto.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
 ## ✅ Pré-requisitos
 
